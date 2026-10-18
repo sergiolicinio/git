@@ -1,0 +1,20 @@
+# comentário
+
+# um arquivo específico
+segredos.txt        
+
+# variáveis de ambiente e senhas
+.env                
+
+# todos os arquivos .log
+*.log               
+
+# uma pasta inteira
+node_modules/       
+
+temp/
+
+*.tmp
+
+# exceção: este NÃO é ignorado
+!importante.log     
